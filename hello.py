@@ -8,4 +8,4 @@ def index():
 
 @app.route("/about")
 def about():
-    return '<p>This app is running on the Flask web framework. Read more at <a href="https://flask.palletsprojects.com/">Flask Documentation</a>.</p>'
+    return '<p>This app is running on the Flask web framework. Read more at <a href=C23375883@mytudublin.ie></a>.</p>'
